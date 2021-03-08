@@ -12,3 +12,8 @@ Topic: Client application improvement with the Firebase.
 This document covers Firebase Analytics, Remote config, A/B Testing.
 I prepared it with example projects in Firebase Console.
 Link: [Firebase](https://github.com/comeonyoh/Seminar_documents/blob/master/Firebase/Firebase.pdf)
+
+## Swizzling in Bugs iOS
+Created: Mar. 2021
+Topic: Objective-C Runtime feature, Runtime internal and how to use a swizzling in Bugs iOS app.
+Link: [Siwzzling in Bugs iOS](https://github.com/comeonyoh/Seminar_documents/blob/master/Swizzling_In_Bugs/Swizzling.pdf)
