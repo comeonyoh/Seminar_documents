@@ -22,3 +22,8 @@ Link: [Siwzzling in Bugs iOS](https://github.com/comeonyoh/Seminar_documents/blo
 Created: April 2021  
 Topic: Memory leak problem solution when using RIBs framework and UINavigationController.  
 Link: [NavigatableRIBs](https://github.com/comeonyoh/NavigatableRIBs)
+
+## Build faster strategy
+Created: July 2021  
+Topic: What the incremental build is and how to build faster with splitting the big one task into multiple targets.
+Link: [Build faster strategy](https://github.com/comeonyoh/Seminar_documents/blob/master/Build_faster_strategy/Build_faster_strategy.pdf)
